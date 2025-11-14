@@ -1,0 +1,6 @@
+.listas {
+    display:flex; 
+    flex-direction:row;
+    margin-left: 50px;
+    gap: 50px;
+}
